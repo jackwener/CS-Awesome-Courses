@@ -47,3 +47,9 @@ SICP [Structure and Interpretation of Computer Programs](https://link.zhihu.com/
 ## 分布式
 
 [MIT 6.824](<https://pdos.csail.mit.edu/6.824/>)
+
+## 数据结构
+
+[《算法 第四版》](https://link.zhihu.com/?target=https%3A//algs4.cs.princeton.edu/home/)
+
+普林斯顿在 [Coursera](https://link.zhihu.com/?target=https%3A//www.coursera.org/) 上也公开了两门对应课程：[Algorithms, Part I](https://link.zhihu.com/?target=https%3A//www.coursera.org/learn/algorithms-part1) 和 [Algorightmsm, Part2](https://link.zhihu.com/?target=https%3A//www.coursera.org/learn/algorithms-part2)
