@@ -46,7 +46,15 @@ SICP [Structure and Interpretation of Computer Programs](https://link.zhihu.com/
 
 ## 分布式
 
-[MIT 6.824](<https://pdos.csail.mit.edu/6.824/>)
+MIT
+[6.824 Home Page: Spring 2016](https://link.zhihu.com/?target=https%3A//pdos.csail.mit.edu/6.824/)
+
+Stanford
+[CS244b: Distributed systems](https://link.zhihu.com/?target=http%3A//www.scs.stanford.edu/14au-cs244b/)
+
+CMU
+[15-440/640, Spring 2016: Distributed Systems](https://link.zhihu.com/?target=http%3A//www.cs.cmu.edu/~15-440/)
+
 
 ## 数据结构
 
