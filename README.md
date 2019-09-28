@@ -42,6 +42,9 @@ SICP [Structure and Interpretation of Computer Programs](https://link.zhihu.com/
 
 ## 数据库
 
+[CMU 15445](https://15445.courses.cs.cmu.edu/fall2019/#)
+[CMU 15721](https://15721.courses.cs.cmu.edu/spring2019/)
+
 [MIT 6.830/6.814](<http://db.lcs.mit.edu/6.830/sched.php>)
 
 ## 分布式
@@ -61,3 +64,8 @@ CMU
 [《算法 第四版》](https://link.zhihu.com/?target=https%3A//algs4.cs.princeton.edu/home/)
 
 普林斯顿在 [Coursera](https://link.zhihu.com/?target=https%3A//www.coursera.org/) 上也公开了两门对应课程：[Algorithms, Part I](https://link.zhihu.com/?target=https%3A//www.coursera.org/learn/algorithms-part1) 和 [Algorightmsm, Part2](https://link.zhihu.com/?target=https%3A//www.coursera.org/learn/algorithms-part2)
+
+## computer network
+
+[top to down approach](http://uniteng.com/wiki/doku.php?id=classlog:computer_networks)
+[myk's top-to-down](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES)
