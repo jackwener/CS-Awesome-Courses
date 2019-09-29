@@ -43,6 +43,7 @@ SICP [Structure and Interpretation of Computer Programs](https://link.zhihu.com/
 ## 数据库
 
 [CMU 15445](https://15445.courses.cs.cmu.edu/fall2019/#)
+
 [CMU 15721](https://15721.courses.cs.cmu.edu/spring2019/)
 
 [MIT 6.830/6.814](<http://db.lcs.mit.edu/6.830/sched.php>)
