@@ -36,6 +36,8 @@ SICP [Structure and Interpretation of Computer Programs](https://link.zhihu.com/
 
 [华盛顿大学 Programming Languages](<https://www.coursera.org/lecture/programming-languages/welcome-and-some-course-mechanics-3dedE>)
 
+[浓缩版mit 6.001(SICP)](http://web.mit.edu/alexmv/6.037/)
+
 ## compliers
 
 [CS143 Compliers](<http://web.stanford.edu/class/cs143/index2018.html>)
