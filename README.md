@@ -36,11 +36,11 @@ SICP [Structure and Interpretation of Computer Programs](https://link.zhihu.com/
 
 [华盛顿大学 Programming Languages](<https://www.coursera.org/lecture/programming-languages/welcome-and-some-course-mechanics-3dedE>)
 
-## 编译原理
+## compliers
 
 [CS143 Compliers](<http://web.stanford.edu/class/cs143/index2018.html>)
 
-## 数据库
+## database
 
 [CMU 15445](https://15445.courses.cs.cmu.edu/fall2019/#)
 
@@ -48,7 +48,7 @@ SICP [Structure and Interpretation of Computer Programs](https://link.zhihu.com/
 
 [MIT 6.830/6.814](<http://db.lcs.mit.edu/6.830/sched.php>)
 
-## 分布式
+## distributed sysytem
 
 MIT
 [6.824 Home Page: Spring 2016](https://link.zhihu.com/?target=https%3A//pdos.csail.mit.edu/6.824/)
@@ -60,7 +60,7 @@ CMU
 [15-440/640, Spring 2016: Distributed Systems](https://link.zhihu.com/?target=http%3A//www.cs.cmu.edu/~15-440/)
 
 
-## 数据结构
+## data struct
 
 [《算法 第四版》](https://link.zhihu.com/?target=https%3A//algs4.cs.princeton.edu/home/)
 
