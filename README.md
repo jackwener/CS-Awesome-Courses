@@ -50,7 +50,9 @@ SICP [Structure and Interpretation of Computer Programs](https://link.zhihu.com/
 
 [MIT 6.830/6.814](<http://db.lcs.mit.edu/6.830/sched.php>)
 
-[pingcap talent-plan](https://zhuanlan.zhihu.com/p/61340679)
+[pingcap talent-plan](https://zhuanlan.zhihu.com/p/61340679)   [instruction](https://docs.google.com/document/d/1UG0OHuL6l_hHWs3oyT9gA2n7LuYUfV23nmz0tRvXq2k/edit#heading=h.ywlair765ic9)
+
+
 
 ## distributed sysytem
 
