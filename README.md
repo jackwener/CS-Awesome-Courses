@@ -28,6 +28,8 @@ Amazon 李沐大神出的[《动手学深度学习》](https://link.zhihu.com/?t
 
 [CMU CSAPP 对应的课程 15213](https://www.cs.cmu.edu/~213/schedule.html)
 
+[CMU 15410/605](https://www.cs.cmu.edu/~410/)
+
 ## FP
 
 SICP [Structure and Interpretation of Computer Programs](https://link.zhihu.com/?target=http%3A//book.douban.com/subject/1451622/)
