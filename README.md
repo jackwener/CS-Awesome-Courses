@@ -36,7 +36,7 @@ SICP [Structure and Interpretation of Computer Programs](https://link.zhihu.com/
 
 [CIS 194(学习haskell)](<https://www.seas.upenn.edu/~cis194/spring13/lectures.html>)
 
-[伯克利改的Python版SCIP](<https://cs61a.org/>)
+[伯克利改的Python版SICP](<https://cs61a.org/>)
 
 [华盛顿大学 Programming Languages](<https://www.coursera.org/lecture/programming-languages/welcome-and-some-course-mechanics-3dedE>)
 
