@@ -82,6 +82,8 @@ CMU
 
 [斯坦福 CS106b](http://open.163.com/special/opencourse/abstractions.html)
 
+[斯坦福 CS346](https://web.stanford.edu/class/cs346/2015/)
+
 [UCB CS61b](https://inst.eecs.berkeley.edu/~cs61b/)
 
 [普林斯顿 Algs4](http://algs4.cs.princeton.edu/)
