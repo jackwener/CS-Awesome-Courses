@@ -66,6 +66,8 @@ SICP [Structure and Interpretation of Computer Programs](https://link.zhihu.com/
 
 [cs 245](http://web.stanford.edu/class/cs245/#schedule)
 
+[斯坦福 CS346](https://web.stanford.edu/class/cs346/2015/)
+
 ## distributed sysytem
 
 MIT
@@ -81,8 +83,6 @@ CMU
 ## data struct
 
 [斯坦福 CS106b](http://open.163.com/special/opencourse/abstractions.html)
-
-[斯坦福 CS346](https://web.stanford.edu/class/cs346/2015/)
 
 [UCB CS61b](https://inst.eecs.berkeley.edu/~cs61b/)
 
