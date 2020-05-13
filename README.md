@@ -70,6 +70,8 @@ SICP [Structure and Interpretation of Computer Programs](https://link.zhihu.com/
 
 [斯坦福 CS346](https://web.stanford.edu/class/cs346/2015/)
 
+[伯克利 CS 186](https://cs186berkeley.net/)
+
 ## distributed sysytem
 
 MIT
