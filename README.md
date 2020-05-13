@@ -1,24 +1,53 @@
 # cs-quality-courses
 
-## AI
+## Artificial Intelligence
 
-[吴恩达机器学习](<https://www.coursera.org/learn/machine-learning>)
+[吴恩达机器学习](https://www.coursera.org/learn/machine-learning)
 
 [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
 
-[CS221: Artificial Intelligence: Principles and Techniques](<http://web.stanford.edu/class/cs221/>)
+[CS221: Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221/)
 
-[CS 20: Tensorflow for Deep Learning Research](<https://web.stanford.edu/class/cs20si/syllabus.html>)
+[CS 20: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
 
-[CS234: Reinforcement Learning](<http://web.stanford.edu/class/cs234/schedule.html>)
+[CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/schedule.html)
 
-Amazon 李沐大神出的[《动手学深度学习》](https://link.zhihu.com/?target=https%3A//discuss.gluon.ai/t/topic/753)
+Amazon 李沐大神出的[《动手学深度学习》](https://discuss.gluon.ai/t/topic/753)
 
-台湾大学林轩田教授 [《机器学习基石上》](https://link.zhihu.com/?target=https%3A//www.coursera.org/learn/ntumlone-mathematicalfoundations)， [《机器学习基石下》](https://link.zhihu.com/?target=https%3A//www.coursera.org/learn/ntumlone-algorithmicfoundations)
+台湾大学林轩田教授 [《机器学习基石上》](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)， [《机器学习基石下》](https://www.coursera.org/learn/ntumlone-algorithmicfoundations)
 
-台湾大学[《Applied Deep Learning/Machine Learning and Having It Deep and Structured》](https://link.zhihu.com/?target=https%3A//www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html)
+台湾大学[《Applied Deep Learning/Machine Learning and Having It Deep and Structured》](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html)
 
-## OS
+[UCB CS188](https://www.bilibili.com/video/av15630620/)
+
+[MIT 6.034](http://open.163.com/movie/2017/9/Q/S/MCTMNN3UI_MCTMNR8QS.html)
+
+斯坦福 CS229
+  - [视频](http://open.163.com/special/opencourse/machinelearning.html)
+  - [讲义](https://github.com/Kivy-CN/Stanford-CS-229-CN)
+
+斯坦福 CS231n
+  - [视频](https://www.bilibili.com/video/av17204303/)
+  - [讲义](https://zhuanlan.zhihu.com/p/21930884?refer=intelligentunit)
+
+斯坦福 CS224d
+  - [主页](http://cs224d.stanford.edu/)
+  - [讲义](http://blog.csdn.net/column/details/dl-nlp.html)
+
+[斯坦福 CS20si](https://web.stanford.edu/class/cs20si/)
+
+斯坦福 CS230 / DeepLearningAI
+  - [视频](https://mooc.study.163.com/course/deeplearning_ai-2001281002#/info)
+  - [笔记](http://ai-start.com/dl2017/)
+
+[MIT 6.S191](https://www.bilibili.com/video/av19113488)
+
+UCB CS294
+  - [视频](https://www.bilibili.com/video/av9802698/)
+  - [笔记](https://zhuanlan.zhihu.com/c_150977189)
+
+
+## Operating System
 
 [MIT 大名鼎鼎的6.828](<https://pdos.csail.mit.edu/6.828/2018/schedule.html>)
 
@@ -32,9 +61,12 @@ Amazon 李沐大神出的[《动手学深度学习》](https://link.zhihu.com/?t
 
 [CMU 15410/605](https://www.cs.cmu.edu/~410/)
 
-## FP
+[Gate Lectures OS](https://www.youtube.com/playlist?list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq)
 
-SICP [Structure and Interpretation of Computer Programs](https://link.zhihu.com/?target=http%3A//book.douban.com/subject/1451622/)
+
+## Programming Language
+
+[Structure and Interpretation of Computer Programs](https://book.douban.com/subject/1451622/)
 
 [CIS 194(学习haskell)](<https://www.seas.upenn.edu/~cis194/spring13/lectures.html>)
 
@@ -44,7 +76,8 @@ SICP [Structure and Interpretation of Computer Programs](https://link.zhihu.com/
 
 [浓缩版mit 6.001(SICP)](http://web.mit.edu/alexmv/6.037/)
 
-## compliers
+
+## Compliers
 
 [stanford CS143](http://web.stanford.edu/class/cs143/)
 
@@ -54,7 +87,8 @@ SICP [Structure and Interpretation of Computer Programs](https://link.zhihu.com/
 
 [Gate Lectures 编译](https://www.youtube.com/playlist?list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS)
 
-## database
+
+## Database System
 
 [CMU 15445](https://15445.courses.cs.cmu.edu/fall2019/#)
 
@@ -72,21 +106,20 @@ SICP [Structure and Interpretation of Computer Programs](https://link.zhihu.com/
 
 [伯克利 CS 186](https://cs186berkeley.net/)
 
-## distributed sysytem
-
-MIT
-[6.824 Home Page: Spring 2016](https://link.zhihu.com/?target=https%3A//pdos.csail.mit.edu/6.824/)
-
-Stanford
-[CS244b: Distributed systems](https://link.zhihu.com/?target=http%3A//www.scs.stanford.edu/14au-cs244b/)
-
-CMU
-[15-440/640, Spring 2016: Distributed Systems](https://link.zhihu.com/?target=http%3A//www.cs.cmu.edu/~15-440/)
+[斯坦福 CS145](https://www.bilibili.com/video/av19616961/)
 
 
-## data struct
+## Distributed System
 
-[斯坦福 CS106b](http://open.163.com/special/opencourse/abstractions.html)
+
+[MIT 6.824](https://pdos.csail.mit.edu/6.824/)
+
+[Stanford CS244b: Distributed systems](https://www.scs.stanford.edu/14au-cs244b/)
+
+[CMU 15-440/640, Spring 2016: Distributed Systems](https://www.cs.cmu.edu/~15-440/)
+
+
+## Data Structures and Algorithms
 
 [UCB CS61b](https://inst.eecs.berkeley.edu/~cs61b/)
 
@@ -96,11 +129,14 @@ CMU
 
 [Gate Lectures 算法和数据结构](https://www.youtube.com/playlist?list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
 
-[《算法 第四版》](https://link.zhihu.com/?target=https%3A//algs4.cs.princeton.edu/home/)
+[《算法 第四版》](https://algs4.cs.princeton.edu/home/)
 
-普林斯顿在 [Coursera](https://link.zhihu.com/?target=https%3A//www.coursera.org/) 上也公开了两门对应课程：[Algorithms, Part I](https://link.zhihu.com/?target=https%3A//www.coursera.org/learn/algorithms-part1) 和 [Algorightmsm, Part2](https://link.zhihu.com/?target=https%3A//www.coursera.org/learn/algorithms-part2)
+普林斯顿在 [Coursera](https://www.coursera.org/) 上也公开了两门对应课程：[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) 和 [Algorightmsm, Part2](https://www.coursera.org/learn/algorithms-part2)
 
-## computer network
+[斯坦福 CS106b](http://open.163.com/special/opencourse/abstractions.html) (broken link)
+
+
+## Computer Networking
 
 [cmu15441](https://computer-networks.github.io/sp19/)
 
@@ -112,40 +148,21 @@ CMU
 
 [伯克利 EE122](https://www2.eecs.berkeley.edu/Courses/EE122/)
 
-## 系统
+[Gate Lectures 计网](https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
 
-- [nand2tetris](http://www.nand2tetris.org/)
-- CMU 15-213
+[斯坦福 CS144](https://www.bilibili.com/video/av11930774/)
+
+
+## Computer Architecture
+
+[nand2tetris](http://www.nand2tetris.org/)
+
+CMU 15-213
   - [视频](https://www.bilibili.com/video/av20304787)
   - [笔记](http://wdxtub.com/2016/04/16/thin-csapp-1/)
-- MIT 6.828
+
+MIT 6.828
   - [主页](https://pdos.csail.mit.edu/6.828/)
   - [中文版教材](https://www.gitbook.com/book/th0ar/xv6-chinese)
-- [UCB CS61c](http://www-inst.eecs.berkeley.edu/~cs61c/)
-- [MIT 6.824](https://pdos.csail.mit.edu/6.824/)
-- [斯坦福 CS144](https://www.bilibili.com/video/av11930774/)
-- [斯坦福 CS145](https://www.bilibili.com/video/av19616961/)
-- [Gate Lectures OS](https://www.youtube.com/playlist?list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq)
-- [Gate Lectures 计网](https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
 
-## 机器学习
-
-- [UCB CS188](https://www.bilibili.com/video/av15630620/)
-- [MIT 6.034](http://open.163.com/movie/2017/9/Q/S/MCTMNN3UI_MCTMNR8QS.html)
-- 斯坦福 CS229
-  - [视频](http://open.163.com/special/opencourse/machinelearning.html)
-  - [讲义](https://github.com/Kivy-CN/Stanford-CS-229-CN)
-- 斯坦福 CS231n
-  - [视频](https://www.bilibili.com/video/av17204303/)
-  - [讲义](https://zhuanlan.zhihu.com/p/21930884?refer=intelligentunit)
-- 斯坦福 CS224d
-  - [主页](http://cs224d.stanford.edu/)
-  - [讲义](http://blog.csdn.net/column/details/dl-nlp.html)
-- [斯坦福 CS20si](https://web.stanford.edu/class/cs20si/)
-- 斯坦福 CS230 / DeepLearningAI
-  - [视频](https://mooc.study.163.com/course/deeplearning_ai-2001281002#/info)
-  - [笔记](http://ai-start.com/dl2017/)
-- [MIT 6.S191](https://www.bilibili.com/video/av19113488)
-- UCB CS294
-  - [视频](https://www.bilibili.com/video/av9802698/)
-  - [笔记](https://zhuanlan.zhihu.com/c_150977189)
+[UCB CS61c](http://www-inst.eecs.berkeley.edu/~cs61c/)
