@@ -24,6 +24,8 @@ Amazon 李沐大神出的[《动手学深度学习》](https://link.zhihu.com/?t
 
 [清华大学的OS课程 ucore,视频在学堂在线和bilibili均有](<http://os.cs.tsinghua.edu.cn/oscourse/OS2017spring#A.2Bi.2F56C4nGmJE->)
 
+[rust 版本ucore rcore](https://rcore-os.github.io/rCore_tutorial_doc/)
+
 [南京大学 ICS PA](<https://nju-ics.gitbooks.io/ics2017-programming-assignment/content/2.2.html>)
 
 [CMU CSAPP 对应的课程 15213](https://www.cs.cmu.edu/~213/schedule.html)
