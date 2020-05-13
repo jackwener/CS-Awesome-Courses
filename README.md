@@ -108,6 +108,8 @@ CMU
 
 [myk's top-to-down](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES)
 
+[伯克利 EE122](https://www2.eecs.berkeley.edu/Courses/EE122/)
+
 ## 系统
 
 - [nand2tetris](http://www.nand2tetris.org/)
