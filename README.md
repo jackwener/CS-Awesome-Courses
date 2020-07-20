@@ -1,5 +1,8 @@
 # cs-quality-courses
 
+> welcome to share other quality computer science courses by PR
+> 欢迎通过PR分享别的优质计算机课程
+
 ## Artificial Intelligence
 
 [吴恩达机器学习](https://www.coursera.org/learn/machine-learning)
