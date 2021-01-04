@@ -59,7 +59,9 @@ UCB CS294
 
 [rust 版本ucore rcore](https://rcore-os.github.io/rCore_tutorial_doc/)
 
-[南京大学 ICS PA](<https://nju-ics.gitbooks.io/ics2017-programming-assignment/content/2.2.html>)
+[南京大学 ICS PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2019/)
+
+[NJU ICS PA Bilibili](https://www.bilibili.com/video/BV1qa4y1j7xk)
 
 [CMU CSAPP 对应的课程 15213](https://www.cs.cmu.edu/~213/schedule.html)
 
