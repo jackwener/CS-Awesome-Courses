@@ -63,6 +63,8 @@ UCB CS294
 
 [NJU ICS PA Bilibili](https://www.bilibili.com/video/BV1qa4y1j7xk)
 
+[NJU OS](https://www.bilibili.com/video/BV1HN41197Ko?p=1)
+
 上海交通大学 操作系统 (陈海波、夏虞斌)  
   - [上海交通大学 SE315](https://ipads.se.sjtu.edu.cn/courses/os/)  
   - [视频课程（好大学在线） ](https://www.cnmooc.org/portal/course/5610/14956.mooc)  
