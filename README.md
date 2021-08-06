@@ -1,4 +1,4 @@
-# cs-quality-courses
+# CS-Awesome-Courses
 
 > welcome to share other quality computer science courses by PR
 >
