@@ -174,8 +174,8 @@ UCB CS294
 [nand2tetris](http://www.nand2tetris.org/)
 
 CMU 15-213
-  - [视频](https://www.bilibili.com/video/av20304787)
-  - [笔记](http://wdxtub.com/2016/04/16/thin-csapp-1/)
+  - [视频](https://www.bilibili.com/video/BV1iW411d7hd)
+  - [讲义](https://hansimov.gitbook.io/csapp/)
 
 MIT 6.828
   - [主页](https://pdos.csail.mit.edu/6.828/)
