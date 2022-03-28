@@ -57,7 +57,7 @@ UCB CS294
 
 [清华大学的OS课程 ucore,视频在学堂在线和bilibili均有](<http://os.cs.tsinghua.edu.cn/oscourse/OS2017spring#A.2Bi.2F56C4nGmJE->)
 
-[rust 版本ucore rcore](https://rcore-os.github.io/rCore_tutorial_doc/)
+清华大学用Rust从零开始写OS(rCore-Tutorial-v3)，[代码](https://github.com/rcore-os/rCore-Tutorial-v3)，[文档](https://rcore-os.github.io/rCore-Tutorial-Book-v3/)
 
 [南京大学 ICS PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2019/)
 
@@ -71,6 +71,7 @@ UCB CS294
   - [对应教材 《现代操作系统——原理与实现》](https://ipads.se.sjtu.edu.cn/mospi/)  
   - [配套 Lab](https://gitee.com/ipads-lab/chcore-lab)  
     
+
 [CMU CSAPP 对应的课程 15213](https://www.cs.cmu.edu/~213/schedule.html)
 
 [CMU 15410/605](https://www.cs.cmu.edu/~410/)
