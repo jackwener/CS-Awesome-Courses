@@ -1,8 +1,8 @@
 # CS-Awesome-Courses
 
-> welcome to share other quality computer science courses by PR
+> 欢迎通过 PR 分享别的优质计算机课程
 >
-> 欢迎通过PR分享别的优质计算机课程
+> 如果出现任何错误或者过期链接，欢迎通过 PR 改正.
 
 ## Artificial Intelligence
 
